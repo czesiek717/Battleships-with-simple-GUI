@@ -9,4 +9,5 @@ same machine can be found inside. Ready to run .jar game file can be found in ou
 Example image:
 
 
-![alt text](https://raw.githubusercontent.com/czesiek717/Battleships-with-simple-GUI/master/res/images/example.png)
+![alt text](https://raw.githubusercontent.com/czesiek717/Battleships-with-simple-GUI/master/res/example.png)
+![alt text](https://raw.githubusercontent.com/czesiek717/Battleships-with-simple-GUI/master/res/example.png)
