@@ -18,4 +18,4 @@ Example image:
 
 
 ![alt text](https://raw.githubusercontent.com/czesiek717/Battleships-with-simple-GUI/master/res/example.png)
-![alt text](https://raw.githubusercontent.com/czesiek717/Battleships-with-simple-GUI/master/res/example.png)
+![alt text](https://raw.githubusercontent.com/czesiek717/Battleships-with-simple-GUI/master/res/example2.png)
